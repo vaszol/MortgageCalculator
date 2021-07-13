@@ -7,3 +7,4 @@
 
 Используемый фреймворк - https://kivymd.readthedocs.io/en/latest/getting-started/
 
+Сборщик проекта - https://travis-ci.com/github/vaszol/MortgageCalculator
